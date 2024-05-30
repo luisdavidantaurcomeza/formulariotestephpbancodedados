@@ -1,0 +1,34 @@
+*{
+
+input {
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+
+}
+label {
+    padding: 10px;
+    margin-right: 5px;
+}
+button{
+    margin-top: 60px;
+    font-size: 20px;
+    background-color: aqua;
+    cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
