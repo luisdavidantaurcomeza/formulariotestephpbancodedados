@@ -12,13 +12,22 @@ label {
     margin-right: 5px;
 }
 button{
-    margin-top: 60px;
+    margin-top: 45px;
     font-size: 20px;
     background-color: aqua;
     cursor: pointer;
+    margin-left: 30%;
 
 }
 
+.cad {
+    height: 300px;
+    width: 850px;
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+}
 
 
 
